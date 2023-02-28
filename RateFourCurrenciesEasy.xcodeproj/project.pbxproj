@@ -13,6 +13,7 @@
 		A594807429AE775000AC7D28 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A594807329AE775000AC7D28 /* Preview Assets.xcassets */; };
 		A594807629AE775000AC7D28 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A594807529AE775000AC7D28 /* Persistence.swift */; };
 		A594807929AE775000AC7D28 /* RateFourCurrenciesEasy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A594807729AE775000AC7D28 /* RateFourCurrenciesEasy.xcdatamodeld */; };
+		A594808029AE7A5900AC7D28 /* SomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A594807F29AE7A5900AC7D28 /* SomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A594807329AE775000AC7D28 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A594807529AE775000AC7D28 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A594807829AE775000AC7D28 /* RateFourCurrenciesEasy.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = RateFourCurrenciesEasy.xcdatamodel; sourceTree = "<group>"; };
+		A594807F29AE7A5900AC7D28 /* SomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				A594806C29AE774F00AC7D28 /* RateFourCurrenciesEasyApp.swift */,
 				A594806E29AE774F00AC7D28 /* ContentView.swift */,
+				A594807F29AE7A5900AC7D28 /* SomeView.swift */,
 				A594807029AE775000AC7D28 /* Assets.xcassets */,
 				A594807529AE775000AC7D28 /* Persistence.swift */,
 				A594807729AE775000AC7D28 /* RateFourCurrenciesEasy.xcdatamodeld */,
@@ -147,6 +150,7 @@
 				A594807629AE775000AC7D28 /* Persistence.swift in Sources */,
 				A594806F29AE774F00AC7D28 /* ContentView.swift in Sources */,
 				A594806D29AE774F00AC7D28 /* RateFourCurrenciesEasyApp.swift in Sources */,
+				A594808029AE7A5900AC7D28 /* SomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
